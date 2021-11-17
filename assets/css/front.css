@@ -1,0 +1,11 @@
+/* Import file menu */
+@import "menu.css";
+
+/* General rules */
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: url("assets/css/pictures/imgNinja.jpg");
+}
