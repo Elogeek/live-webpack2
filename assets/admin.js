@@ -1,7 +1,7 @@
 // Import an instantiable object
-import {people} from "./js/testConsole";
+import {people} from "./js/testConsole.mjs";
 //import myClass
-import {myClass} from "./js/testConsole";
+import {myClass} from "./js/testConsole.mjs";
 
 const p = new people();
 p.hello();
