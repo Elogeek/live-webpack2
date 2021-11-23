@@ -1,0 +1,1 @@
+(()=>{"use strict";sayHi("Bubulle Doe !"),person.sayHello(),person.sayBye()})();
